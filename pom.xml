@@ -26,11 +26,7 @@
             <version>2.17.1</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.progsbase.libraries</groupId>
-            <artifactId>JSON</artifactId>
-            <version>0.4.0</version>
-        </dependency>
+
     </dependencies>
 
 </project>
